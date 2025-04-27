@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/mlProject/mlruns/0/92ada2ea904d46e5b9a19175a7bf328d/artifacts
+end_time: 1745766131871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ada2ea904d46e5b9a19175a7bf328d
+run_name: whimsical-trout-60
+run_uuid: 92ada2ea904d46e5b9a19175a7bf328d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745766122246
+status: 3
+tags: []
+user_id: root
