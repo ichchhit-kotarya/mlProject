@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/mlProject/mlruns/0/4eac5934cacc48788e3176bcd5bbecde/artifacts
+end_time: 1745987544904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eac5934cacc48788e3176bcd5bbecde
+run_name: wistful-perch-404
+run_uuid: 4eac5934cacc48788e3176bcd5bbecde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745987532133
+status: 3
+tags: []
+user_id: root
